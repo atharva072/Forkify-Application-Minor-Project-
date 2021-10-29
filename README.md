@@ -22,6 +22,7 @@
 #### Things we learned during developing this project :
 - Npm package bundlers.
 - Git Fundamentals.
-- Asynchronous Javascript.
-- Creating interesting User Interface.
-- Fetching data from external API's and rendering data on the web page. 
+- Asynchronous Javascript (AJAX).
+- Front-End Web Development using HTML, CSS, Javascript.
+- Fetching data from external API's and rendering data on the web page.
+- JSON.
