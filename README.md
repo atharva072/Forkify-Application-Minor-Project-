@@ -14,7 +14,6 @@
 - Fork the repository Forkify-Application-Minor-Project on your local Github
 - Clone the forked repository using the code git clone https://github.com/atharva072/Forkify-Application-Minor-Project-.git
 - Keeping in mind Node is installed in your environment run `npm install`
-- If any errors arise refer here
 - If no errors arise, run `npm run build`
 - Then, run `npm start`
 - If there are no errors, the app should be visible on your localhost
