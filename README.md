@@ -8,8 +8,7 @@
 #### Here is a snippet of how the application looks like 
 ![image](https://user-images.githubusercontent.com/76684818/139418889-27bae65b-c0eb-4cd9-8df6-9d28ff7b6a53.png)
 
-
-#### Demo -> 
+#### Demo -> https://forkify-atharva.netlify.app/
 
 #### Q. How to run the project in your local PC ?
 - Fork the repository Forkify-Application-Minor-Project on your local Github
